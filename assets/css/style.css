@@ -1,0 +1,25 @@
+body{
+	background-image: url(https://parismatch.be/app/uploads/2017/10/ST.jpg);
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.jumbotron {
+    opacity: 0.35;
+    margin:  75px;
+    padding: 25px;
+    font-family: Merriweather;
+    color: white;
+    background-color: rgb(83, 11, 11);
+}
